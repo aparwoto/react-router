@@ -1,4 +1,3 @@
-import { Route } from 'react-router-dom';
 import MainNavigation from '../components/layout/MainNavigation';
 
 function NewMeetupPage() {
